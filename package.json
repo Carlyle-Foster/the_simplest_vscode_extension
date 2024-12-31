@@ -1,0 +1,16 @@
+{
+    "name": "the-simplest",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "main": "./main.js",
+    "contributes": {
+        "commands": [
+            {
+                "command": "simply.check_mail",
+                "title": "check mail"
+            }
+        ]
+    }
+}
