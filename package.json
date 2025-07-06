@@ -2,9 +2,9 @@
     "name": "the-simplest",
     "version": "1.0.0",
     "engines": {
-        "vscode": "^1.22.0"
+        "vscode": "^1.100.0"
     },
-    "main": "./main.js",
+    "main": "./main.mjs",
     "contributes": {
         "commands": [
             {
